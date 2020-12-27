@@ -4,6 +4,7 @@ class String
 
   def sentence?
     true if self.end_with?(".")
+    false if 
     
   end
 
